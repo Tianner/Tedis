@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tianner.tedis.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tianner.tedis.MyBundle
 
 class MyApplicationService {
 
